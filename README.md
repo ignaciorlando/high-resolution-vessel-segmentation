@@ -2,7 +2,7 @@
 
 Created by José Ignacio Orlando at Pladema Institute (Facultad de Ciencias Exactas, UNCPBA, Tandil, Argentina) and CONICET (Consejo Nacional de Investigaciones Científicas y Técnicas, Argentina). This work was part of the Software Engineering thesis of Marcos Fracchia and Valeria del Río.
 
-![Schematic representation of our method](https://raw.githubusercontent.com/high-resolution-vessel-segmentation/red-lesion-detection/master/schematic.png)
+![Schematic representation of our method](https://raw.githubusercontent.com/high-resolution-vessel-segmentation/master/schematic.png)
 
 ## Introduction
 This repository contains implementation details and results of our method for blood vessel segmentation in high resolution images based on automated parameter estimation.
